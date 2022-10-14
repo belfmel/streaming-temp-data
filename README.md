@@ -5,7 +5,7 @@ This project involves setting up a MQTT protocol to produce temperature and humi
 - The TBpublish.py python script with Paho will be the client. 
   - This file publishes the temperature data to ThingsBoard
 - ThingsBoard uses the rule chain to pass the data to Firebase
-  - # TODO: Add more details
+   <!-- TODO: Add more details -->
 
 
 ### Technologies used
